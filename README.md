@@ -1,1 +1,1 @@
-# Ejercicios-de-tipos-de-datos-simpless
+# Ejercicios-de-tipos-de-datos-simples
